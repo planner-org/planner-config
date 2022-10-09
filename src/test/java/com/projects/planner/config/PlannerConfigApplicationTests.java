@@ -1,4 +1,4 @@
-package com.projects.planner.plannerconfig;
+package com.projects.planner.config;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

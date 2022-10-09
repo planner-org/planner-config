@@ -1,4 +1,4 @@
-package com.projects.planner.plannerconfig;
+package com.projects.planner.config;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
