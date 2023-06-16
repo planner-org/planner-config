@@ -28,6 +28,13 @@ dependencyManagement {
     }
 }
 
+//bootRun {
+//    if (project.hasProperty('args')) {
+//        args project.args.split('\\s+')
+//        //  .\gradlew bootRun -Pargs="--git.uri=xxx --git.basedir"
+//    }
+//}
+
 tasks.named('test') {
     useJUnitPlatform()
 }
